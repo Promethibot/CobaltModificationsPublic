@@ -1,4 +1,5 @@
 -- Bugfix for the "pattern" light behaviour corrupting maps if there's an invalid character in the pattern field, along with new description
+-- See here ( https://sites.google.com/view/thecobaltarchive/bugfix-files#h.r4p71rqe05os ) for bug description
 
 -- Place following code under default = "9050", in LIGHT_BEHAVIOURS.pattern
 -- Adds warning that non-integers will be stripped from the string
