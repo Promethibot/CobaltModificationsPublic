@@ -1,4 +1,4 @@
-# CobaltModificationsPublic
+# Cobalt Modifications (Public)
 Public version of CobaltModifications featuring only snippets instead of whole files of bugfixes and suggested modifications to Cobalt (2016) by [Oxeye Game Studio](http://www.oxeyegames.com/)
 
 Files are named after the file meant to be modified under Cobalt/daisyMoon. Where snippets should be placed is designated by comments.
