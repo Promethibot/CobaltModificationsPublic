@@ -1,5 +1,5 @@
 -- - TENTATIVE FIX? -
--- Not an addition of code, but a removal
+-- Hacky fix but works so far
 
 editPopulateOptionalTags = function(def, tags)
 		local advs = resources.getAllIndexed("adventure")
