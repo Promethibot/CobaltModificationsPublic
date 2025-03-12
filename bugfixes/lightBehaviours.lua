@@ -1,5 +1,9 @@
--- Bugfix for the "pattern" light behaviour corrupting maps if there's an invalid character in the pattern field, along with new description
--- See here ( https://sites.google.com/view/thecobaltarchive/bugfix-files#h.r4p71rqe05os ) for bug description
+/*
+	Short description of bug: "pattern" light behaviour corrupts maps if there's an invalid character in the pattern field, along with new description
+	If you input a non-integer value and then save the map, it will corrupt the map, make it unsalvageable aside from map backups, and cause the editor to crash whenever it tries to load into it.
+	Currently, there are no safeguards against this behavior, and the editor has no warning about this.
+	Bug report by MortissMonster
+*/
 
 -- Place following code under default = "9050", in LIGHT_BEHAVIOURS.pattern
 -- Adds warning that non-integers will be stripped from the string

@@ -1,6 +1,11 @@
--- - TENTATIVE FIX? -
--- Hacky fix but works so far
+/*
+	Short description of bug: editors using the developer mode will experience a memory leak and crash upon opening maps using the gamemode Story if you have a folder named "adventures" in your Cobalt directory.
+	This only applies to when you try to view the map in the editor.
+	If you play the main story via the editor and arrive at a map using the gamemode (e.g. The Seed), it will load and run just fine.
+	Cannot recall if adventures folder needed to be populated for the bug to occur; folder must be named adventures; quick circumvention to view the map would be to just rename it adventuress or something else.
+*/
 
+-- Issue seems localized to this function
 editPopulateOptionalTags = function(def, tags)
 		local advs = resources.getAllIndexed("adventure")
 		
