@@ -14,4 +14,4 @@ I take no responsibility for anything breaking.
 > If you want to contribute, you _must_ explain each change you made, both what it does, and why the change was made.
 > You must also ensure you wrap your modified, added, or removed code with something like `-- NON-DEVELOPER EDIT` and `-- NON-DEVELOPER EDIT END` for easy identification.
 
-Changes, but _especially_ bugfixes, must strive to change as little as possible, and must make as much sense as possible. Measure twice, ~~cut~~ write once.
+Changes, but _especially_ bugfixes, must strive to change as little as possible, and must make as much sense as possible. Measure twice, ~~cut~~ write once. Be sure to explain what the bug _is_ as well.
