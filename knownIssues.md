@@ -11,6 +11,7 @@
 - TeamStrike survival in a row achievements broken
 - "Respectable in All Aspects" is broken and will not unlock even if requirements satisfied
 - Maps using the "story" gamemode will fail to load if the "adventures" folder exists and is populated with adventures. See attempt to fix [here](https://github.com/Promethibot/CobaltModificationsPublic/blob/71ac3f2f9d11c599803000c691088b3cf377591b/bugfixes/modeStory.lua)
+- Dedicated servers can only be connected to if you use launch parameters. They will not show up in the server browser.
 
 ## Not major
 - Editor crashes if scrolling through tile browser too quickly
