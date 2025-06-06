@@ -1,4 +1,5 @@
 # Wishlist
+Desired features for the game. Meant to be editor stuff mostly and less item/hull suggestions. If there's enough demand for the latter, it will get its own section for readability.
 
 ## Major
 - Easy sharing/opening of custom stories
