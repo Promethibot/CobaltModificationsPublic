@@ -1,4 +1,5 @@
 # Known Issues
+These are currently known issues, ideally with an idea as to what the cause is. Issues with a community-made fix will be formatted with ~~strikethrough~~. Issues officially fixed will be placed under the "Officially Fixed" category.
 
 ## Catastrophic Issues
 - Spamming "Generate new galaxy" will corrupt galaxy.meta and will not be resolved by verifying the game's files
@@ -20,3 +21,5 @@
     - PS: Kills, Deaths, Assists, Plugs Scores
 - Steam usernames occasionally fail to display in multiplayer lobbies and instead opt for the user ID
 - Light pattern in tutorial secret is faulty
+
+# Officially Fixed
