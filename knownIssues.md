@@ -4,6 +4,7 @@
 - Spamming "Generate new galaxy" will corrupt galaxy.meta and will not be resolved by verifying the game's files
 - ~~Using unintended characters in the "pattern" light behavior will corrupt the map entirely.~~ See fix [here](https://github.com/Promethibot/CobaltModificationsPublic/blob/71ac3f2f9d11c599803000c691088b3cf377591b/bugfixes/lightBehaviours.lua)
 - Tiles in multiplayer will not update for clients, only the host. Can result in map hazards not being visible to clients.
+- Chapter 2 can still occasionally generate Trapper Caves with no exit, meaning the map (and therefore, the run) can be soft-locked.
 
 ## Impediments
 - actorTalk does not work for clients in multiplayer, only hosts
