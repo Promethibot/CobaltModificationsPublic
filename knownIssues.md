@@ -14,5 +14,7 @@
 ## Not major
 - Editor crashes if scrolling through tile browser too quickly
 - Statistics for TeamStrike and PlugSlam do not work
+    - TS: Kills, Deaths, Assists, Matches Won, Matches Lost, Combo-kills, Multi-kills, Wipes
+    - PS: Kills, Deaths, Assists, Plugs Scores
 - Steam usernames occasionally fail to display in multiplayer lobbies and instead opt for the user ID
 - Light pattern in tutorial secret is faulty
