@@ -1,5 +1,5 @@
 # Cobalt Modifications (Public)
-Public version of CobaltModifications featuring only snippets instead of whole files of bugfixes and suggested modifications to _Cobalt_ (2016) by [Oxeye Game Studio](http://www.oxeyegames.com/)
+Public version of CobaltModifications featuring only snippets instead of whole files of bugfixes and suggested modifications to _Cobalt_ (2016) by [Oxeye Game Studio](http://www.oxeyegames.com/). Sister project to [Alloy](https://github.com/CobaltAlloy/Alloy) by Creep.
 
 Files are named after the file meant to be modified under _Cobalt_/daisyMoon. Where snippets should be placed is designated by comments.
 
