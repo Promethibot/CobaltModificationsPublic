@@ -9,6 +9,7 @@ Desired features for the game. Meant to be editor stuff mostly and less item/hul
 
 ## QoL
 - Restarting chapters mid-chapter
+- "-ircbot" launch option should not check for bitsquid dev mode
 
 ## Miscellaneous
 - Destructive painting
